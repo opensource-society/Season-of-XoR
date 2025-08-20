@@ -1,7 +1,5 @@
 # Season of XoR: Online Internship Program
 
-![Season of XoR Banner](https://via.placeholder.com/1200x300?text=Season+of+XoR+Internship+Program) <!-- Replace with actual banner image if available -->
-
 ## 🚀 Program Vision
 
 The Season of XoR Internship is designed to provide **beginners** with a hands-on, task-based learning experience. Unlike traditional assignments, participants will tackle real-world problems through projects in areas such as Web Development, DevOps, AI/ML, Web3, and Data Science.
