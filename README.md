@@ -138,15 +138,6 @@ A template will be provided (`/SUBMISSION_TEMPLATE.md`).
 
 ---
 
-## 💰 Voluntary Contribution
-
-Participation is **free**. However, voluntary contributions (₨ 50–100 suggested) are welcome to support:
-
-* Community events & workshops.
-* Open-source repository maintenance.
-
----
-
 ## 🔮 Why Join Season of XoR?
 
 * ✔️ Hands-on, project-first learning
