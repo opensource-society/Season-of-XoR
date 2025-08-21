@@ -2,7 +2,14 @@
 
 ## 🚀 Program Vision
 
-The **Season of XoR** is a **4-week guided training + internship-style program** designed for students, beginners, and early-stage developers to **learn by building real-world inspired projects**. Unlike conventional internships, this is a **community-driven, task-based learning experience** where participants choose a technology track, complete structured tasks, and showcase their projects.
+The **Season of XoR** is a **4-week guided training + internship-style program** designed for students, beginners, and early-stage developers to learn by building **real-world inspired projects**.
+
+Unlike conventional internships, this is a **community-driven, project-first learning experience** where participants:
+
+* Pick a technology track.
+* Build meaningful projects.
+* Collaborate in an open-source style.
+* Showcase their work to the XoR community.
 
 At the end of the program:
 
@@ -15,113 +22,110 @@ At the end of the program:
 
 ## 🏗️ Program Structure
 
-The program runs for **4 weeks**:
+**Duration: 4 weeks**
 
-### **Week 0: Onboarding**
+* **Week 0 → Onboarding**
 
-* Introduction to XoR community, culture, and tracks.
-* Setup: Git, GitHub workflows (forking, branching, raising PRs).
-* Resources shared: curated learning paths, starter kits, guides.
+  * Orientation: Introduction to XoR community & culture.
+  * Setup: Git + GitHub workflows (forking, branching, PRs).
+  * Resources shared: curated learning paths, starter kits, guides.
 
-### **Weeks 1–2: Project Development**
+* **Weeks 1–2 → Project Development**
 
-* Choose one track (or more, if ambitious).
-* Complete **progressive tasks (Task 0 → Task 4)** in the chosen track.
-* Focus on building projects that solve real-world problems.
+  * Choose a track (or multiple if ambitious).
+  * Work on projects that simulate real-world applications.
+  * Guided resources + self-exploration encouraged.
 
-### **Week 3: Showcase & Evaluation**
+* **Week 3 → Showcase & Evaluation**
 
-* Final project submissions via PRs.
-* Showcase Day: project presentations & demos.
-* Peer + mentor evaluation based on:
+  * Final project submissions via GitHub PRs.
+  * Showcase Day: participants present projects to peers & mentors.
+  * Evaluation criteria:
 
-  * **Creativity**
-  * **Problem-solving approach**
-  * **Technical depth**
-  * **Code/documentation quality**
-  * **Real-world applicability**
+    * Creativity & originality
+    * Problem-solving approach
+    * Technical depth
+    * Code & documentation quality
+    * Real-world applicability
 
 ---
 
-## 🚀 Tracks & Tasks
+## 🚀 Technology Tracks
 
-Each track consists of **5 progressive tasks (0 → 4)** to simulate real-world development:
+Each participant chooses **one track** as their primary focus. The goal is to learn by **building projects that address real-world challenges**.
 
 ### 🌐 Web Development
 
-* **Task 0**: Build a static site (HTML, CSS, JS).
-* **Task 1**: Create a frontend app (React/Next.js/Vue).
-* **Task 2**: Develop a backend app (Node.js/Express, Django, or FastAPI).
-* **Task 3**: Combine frontend + backend into a full-stack app.
-* **Task 4**: Deploy to cloud (Vercel/Netlify/Render/AWS).
+* Build modern web applications.
+* Learn frontend frameworks (React, Next.js, Vue, etc.).
+* Explore backend development with Node, Express, Django, or FastAPI.
+* Deploy full-stack apps to cloud platforms.
 
 ### ⚙️ Backend & DevOps
 
-* **Task 0**: Create a simple REST API.
-* **Task 1**: Integrate database (PostgreSQL/MongoDB).
-* **Task 2**: Implement authentication & authorization.
-* **Task 3**: Dockerize the app.
-* **Task 4**: Deploy with CI/CD (GitHub Actions, AWS/GCP/Azure).
+* Design and implement APIs.
+* Work with databases & authentication.
+* Containerize applications with Docker.
+* Learn CI/CD pipelines and cloud deployments.
 
 ### 🤖 AI & Machine Learning
 
-* **Task 0**: Train a basic ML model (regression/classification).
-* **Task 1**: Build a dataset pipeline (cleaning, preprocessing).
-* **Task 2**: Train a deep learning model (CNN/RNN/Transformers).
-* **Task 3**: Expose model with an inference API.
-* **Task 4**: Deploy with Streamlit/Gradio or as API.
+* Build ML models for regression, classification, and prediction tasks.
+* Explore deep learning (CNNs, RNNs, Transformers).
+* Deploy ML models with Flask, FastAPI, or Streamlit.
+* Apply AI to solve real-world problems.
 
 ### 🔗 Web3 & Blockchain
 
-* **Task 0**: Write a basic smart contract (Solidity).
-* **Task 1**: Deploy contract on testnet (Sepolia/Polygon).
-* **Task 2**: Build a DApp frontend (React + Web3.js/Ethers.js).
-* **Task 3**: Add wallet integration (MetaMask/WalletConnect).
-* **Task 4**: Full DApp with real-world use case.
+* Learn smart contract development with Solidity.
+* Deploy contracts on Ethereum/Polygon testnets.
+* Build decentralized apps (DApps) with wallet integrations.
+* Explore real-world blockchain use cases.
 
 ### 🧠 Generative AI & Agentic AI
 
-* **Task 0**: Build a chatbot using OpenAI/Anthropic APIs.
-* **Task 1**: Add embeddings for RAG (Retrieval-Augmented Generation).
-* **Task 2**: Create a multi-agent system (LangChain, CrewAI, AutoGen).
-* **Task 3**: Build a personal AI agent with tool-use (search, APIs).
-* **Task 4**: Deploy as a persistent web app (Next.js/Streamlit).
+* Create AI assistants and chatbots.
+* Explore RAG (Retrieval-Augmented Generation).
+* Build multi-agent systems with LangChain, CrewAI, AutoGen, etc.
+* Deploy generative/agentic AI applications as persistent services.
 
 ### 📊 Data Science & MLOps
 
-* **Task 0**: Perform EDA (Exploratory Data Analysis).
-* **Task 1**: Train baseline ML models.
-* **Task 2**: Use advanced ML/feature engineering.
-* **Task 3**: Automate pipeline with MLflow/Kubeflow.
-* **Task 4**: Deploy a full MLOps workflow.
+* Perform data analysis and visualization.
+* Train and evaluate ML models.
+* Use advanced feature engineering techniques.
+* Automate ML workflows with MLflow/Kubeflow.
+* Deploy and monitor models in production-like environments.
 
 ---
 
 ## 📂 Submission Guidelines
 
-* All projects are submitted via **GitHub Pull Requests** to a shared private repository.
-* Follow the provided **Submission Template (/SUBMISSION\_TEMPLATE.md)**.
-* Each submission must include:
+All projects will be submitted via **GitHub Pull Requests** to a shared private repository.
 
-  * Source code
-  * Documentation (README, setup guide)
-  * A short **demo video (2–3 mins)**
+Every submission must include:
+
+* ✅ Source code
+* ✅ Documentation (README, setup guide)
+* ✅ Short demo video (2–3 minutes)
+
+A template will be provided (`/SUBMISSION_TEMPLATE.md`).
 
 ---
 
 ## ✅ Prerequisites
 
-* Basic Git & GitHub knowledge (forking, branching, PRs).
-* Familiarity with at least one chosen track.
+* Basic Git & GitHub knowledge (fork, branch, PR).
+* Familiarity with at least one technology track.
 * Eagerness to learn, explore, and experiment.
 
 ---
 
 ## 📝 Evaluation & Certification
 
-* **Completion Certificate** → Finish **Task 3** in chosen track.
-* **Excellence Certificate** → Complete **Task 4** or submit an innovative idea project.
-* **Referral Recommendation** → Exceptional projects + strong showcase performance.
+* **Completion Certificate** → Finish the program with working submissions.
+* **Excellence Certificate** → Exceptional projects with advanced implementations.
+* **Referral Recommendations** → For outstanding contributors with strong showcase performance.
 
 ---
 
@@ -129,36 +133,33 @@ Each track consists of **5 progressive tasks (0 → 4)** to simulate real-world 
 
 * 🎓 Verified **Completion Certificate**.
 * 🥇 **Best Project Awards** in each track.
-* 💼 **Referral Opportunities** via XoR network.
-* 👨‍🏫 **Future Mentor Role** for top contributors.
+* 💼 **Referral Opportunities** through the XoR network.
+* 👨‍🏫 Opportunity to become a **future mentor**.
 
 ---
 
 ## 💰 Voluntary Contribution
 
-Participation is **free**. However, voluntary contributions (\$5–\$50 suggested) are welcome to support:
+Participation is **free**. However, voluntary contributions (₨ 50–100 suggested) are welcome to support:
 
-* Community events & workshops
-* Scholarships for underprivileged learners
-* Maintaining open-source repositories
-
-\[Donation link here]
+* Community events & workshops.
+* Open-source repository maintenance.
 
 ---
 
 ## 🔮 Why Join Season of XoR?
 
 * ✔️ Hands-on, project-first learning
-* ✔️ Solve real-world inspired problems
-* ✔️ Open-source & peer-learning culture
-* ✔️ Showcase work in front of the community
-* ✔️ Referral & mentorship opportunities
+* ✔️ Solve **real-world inspired problems**
+* ✔️ Build open-source portfolio
+* ✔️ Learn in a **peer-driven community**
+* ✔️ Gain **referrals & mentorship opportunities**
 
 ---
 
 ## 📋 How to Apply
 
-1. Fill out the [Registration Form](https://example.com/register).
+1. Fill out the **[Registration Form](https://forms.gle/ecyBvcX9kH77g4gx7)**.
 2. Get onboarding details (repo access, resources).
 3. Start building in your chosen track.
 
@@ -174,9 +175,9 @@ Participation is **free**. However, voluntary contributions (\$5–\$50 suggeste
 
 ## 📚 Resources
 
-* Starter Kits: [GitHub Repo](https://github.com/xor-community/internship-starters)
-* Curated reading list (shared during onboarding)
-* XoR YouTube lectures & workshops
+* Starter Kits: Collaborator on GitHub Repo
+* Curated Reading Lists (shared during onboarding)
+* YouTube lectures & Resources
 
 ---
 
@@ -184,12 +185,11 @@ Participation is **free**. However, voluntary contributions (\$5–\$50 suggeste
 
 * **Who can apply?** Beginners, students, or early-career developers.
 * **Duration?** 4 weeks (flexible, part-time).
-* **Cost?** Free (optional contribution encouraged).
+* **Cost?** Free (with optional contributions).
 * **Prerequisites?** Basic programming + Git knowledge.
-* **Deliverables?** Code, documentation, and demo video.
-
-📩 Contact: [XoR Email/Discord](mailto:contact@xor.com)
+* **Deliverables?** Code, documentation, demo video.
 
 ---
 
 *Maintained by the XoR Team. Contributions welcome via pull requests.*
+
