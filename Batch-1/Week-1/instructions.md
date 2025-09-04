@@ -1,4 +1,3 @@
-
 # 🚀 Season of XoR — Week 1 Instructions
 
 welcome to **batch 1**. this is your starting line.
@@ -49,7 +48,33 @@ inside your folder:
     └── social-links.md
 ```
 
-open a pull request with your work. that’s your official submission.
+## how to submit
+
+fork this repo (button on top-right of GitHub).
+
+1. clone your fork to your local machine:
+```
+git clone https://github.com/<your-username>/Season-of-XoR.git
+cd Season-of-XoR
+```
+2. create a new branch:
+```
+git checkout -b week1-submission
+```
+
+3. add your work inside the correct folder:
+```
+mkdir -p Batch-1/Week-1/<your-name>
+# add your files here
+```
+
+4. commit + push:
+```
+git add .
+git commit -s -m "week 1 submission by <your-name>"
+git push origin week1-submission
+```
+5. go to GitHub → open a Pull Request from your branch to main. describe your submission and PR.
 
 ---
 
