@@ -1,23 +1,25 @@
-# AI & ML Resources
+<h1>AI & ML Resources</h1>
 
-## Full Courses
-- **AI/ML Roadmap (Kunal Kushwaha)** → [Watch Here](https://youtu.be/V9c0YlHf7xQ)  
-- **Machine Learning Full Course (CodeWithHarry - Hindi)** → [Watch Here](https://youtu.be/7eh4d6sabA0)  
-- **Python for AI/ML (Telusko - Hindi)** → [Watch Here](https://youtu.be/qwAFL1597eM)  
-- **Deep Learning Basics (CampusX - Hindi)** → [Watch Here](https://youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckHDXlfGoh)  
+<b>AI/ML Roadmap (Kunal Kushwaha)</b>:- https://youtu.be/V9c0YlHf7xQ  
+<br>
+<b>Machine Learning Full Course (CodeWithHarry - Hindi)</b>:- https://youtu.be/7eh4d6sabA0  
+<br>
+<b>Python for AI/ML (Telusko - Hindi)</b>:- https://youtu.be/qwAFL1597eM  
+<br>
+<b>Deep Learning Basics (CampusX - Hindi)</b>:- https://youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckHDXlfGoh  
+<br>
 
----
+<h2>CheatSheets</h2>
+<ul>
+  <li>Python Numpy & Pandas (CampusX PDF) - https://github.com/campusx-official</li>
+  <li>Scikit-Learn Cheat Sheet - https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html</li>
+</ul>
+<br>
+<hr>
 
-## CheatSheets
-- **Python Numpy & Pandas (CampusX PDF)** → [Download](https://github.com/campusx-official)  
-- **Scikit-Learn Cheat Sheet** → [View](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
-
----
-
-## Other Useful Resources
-- **Kaggle Datasets** → [Explore](https://www.kaggle.com/datasets)  
-- **Google Colab (Free GPU)** → [Start Here](https://colab.research.google.com/)  
-- **AI/ML Projects (Krish Naik)** → [Watch Here](https://www.youtube.com/c/KrishNaik)  
-
----
-
+<h3> Other Useful Resources</h3>
+<b>Kaggle Datasets</b>:- https://www.kaggle.com/datasets  
+<br>
+<b>Google Colab (Free GPU)</b>:- https://colab.research.google.com/  
+<br>
+<b>AI/ML Projects (Krish Naik)</b>:- https://www.youtube.com/c/KrishNaik  
