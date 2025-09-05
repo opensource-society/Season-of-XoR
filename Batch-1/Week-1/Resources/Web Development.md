@@ -16,3 +16,8 @@
 <br>
 <hr>
 <h3> Other Useful Resources</h3>
+<b> CSS Tricks - https://css-tricks.com/</b>
+<ul>
+  <li> Useful for learning to design websites</li>
+</ul>
+
