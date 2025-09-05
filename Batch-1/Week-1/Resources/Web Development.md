@@ -20,4 +20,8 @@
 <ul>
   <li> Useful for learning to design websites</li>
 </ul>
+<b> Tailwind CSS - https://tailwindcss.com/docs/installation/using-vite</b>
+<ul>
+  <li> Industry Standard CSS Framework </li>
+</ul>
 
