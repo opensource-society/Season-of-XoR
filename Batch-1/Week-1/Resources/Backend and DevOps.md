@@ -7,4 +7,8 @@
 <br>
 <b>Restful APIs </b>:- https://youtu.be/-MTSQjw5DrM?si=r61OyzEZ4HMZJHT5
 <br>
+<b>FreevAPIs </b>:- https://rapidapi.com/collection/list-of-free-apis
+<br>
+
+
 
