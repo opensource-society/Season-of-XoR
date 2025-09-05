@@ -11,7 +11,7 @@
 <br>
 <h2>CheatSheets</h2>
 <ul>
-  <li>MongoDb - https://goalkicker.com/MongoDBBook/</li>
+  <li>MongoDB - https://goalkicker.com/MongoDBBook/</li>
 </ul>
 <br>
 <hr>
