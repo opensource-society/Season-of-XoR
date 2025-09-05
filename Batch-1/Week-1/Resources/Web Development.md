@@ -6,3 +6,13 @@
 <b>React Js Tutorial</b>:- https://youtu.be/dCLhUialKPQ?si=hMHItS8gMKpOxXQR
 <br>
 <b>Next Js Tutorial</b>:- https://youtube.com/playlist?list=PLu71SKxNbfoBwut0coTT46oHz8q6xl2tO&si=ZGgi8HeKnFcLvP4h</div>
+
+<h2>CheatSheets</h2>
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+<br>
+<hr>
+<h3> Other Useful Resources</h3>
