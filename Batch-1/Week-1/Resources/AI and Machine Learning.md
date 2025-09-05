@@ -63,13 +63,6 @@ A curated list of resources to learn, practice, and explore **Artificial Intelli
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome!  
-1. Fork this repo  
-2. Add your resource  
-3. Submit a pull request  
-
----
 
 ⭐ If you find this repo helpful, don’t forget to give it a **star**!
 
