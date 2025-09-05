@@ -7,11 +7,11 @@
 <br>
 <b>Next Js Tutorial</b>:- https://youtube.com/playlist?list=PLu71SKxNbfoBwut0coTT46oHz8q6xl2tO&si=ZGgi8HeKnFcLvP4h</div>
 
-<h2>CheatSheets</h2>
+<h2>Professional Notes</h2>
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>HTML- https://goalkicker.com/HTML5Book/</li>
+  <li>React-https://goalkicker.com/ReactJSBook/</li>
+  <li>JavaScript-https://goalkicker.com/JavaScriptBook/ </li>
 </ol>
 <br>
 <hr>
