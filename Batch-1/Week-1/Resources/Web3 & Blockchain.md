@@ -6,9 +6,8 @@
 <b>Ethereum Developer Resources</b>:- https://ethereum.org/developers/
 <h2>CheatSheets</h2>
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Solidity for Beginners - https://dev.to/hack-solidity/the-ultimate-solidity-cheat-sheet-for-beginners-4pk9</li>
+  <li>Ethereum(Smart Contracts)- https://fabianjost.com/ethereum-smart-contracts-cheat-sheet/</li>
 </ol>
 <br>
 <hr>
