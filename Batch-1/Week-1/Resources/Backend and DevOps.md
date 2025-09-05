@@ -9,6 +9,16 @@
 <br>
 <b>FreevAPIs </b>:- https://rapidapi.com/collection/list-of-free-apis
 <br>
+<h2>CheatSheets</h2>
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+<br>
+<hr>
+<h3> Other Useful Resources</h3>
+
 
 
 
