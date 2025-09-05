@@ -1,4 +1,4 @@
-# AI & ML Resources (Indian Sources)
+# AI & ML Resources
 
 ## Full Courses
 - **AI/ML Roadmap (Kunal Kushwaha)** → [Watch Here](https://youtu.be/V9c0YlHf7xQ)  
@@ -20,5 +20,4 @@
 - **AI/ML Projects (Krish Naik)** → [Watch Here](https://www.youtube.com/c/KrishNaik)  
 
 ---
-Star this repo if you find it useful!
 
