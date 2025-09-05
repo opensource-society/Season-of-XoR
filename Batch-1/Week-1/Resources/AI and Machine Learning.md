@@ -1,7 +1,6 @@
 # 🚀 AI & Machine Learning Resources
 
 A curated list of resources to learn, practice, and explore **Artificial Intelligence (AI)** and **Machine Learning (ML)**.  
-Feel free to contribute by adding your favorite resources! ✨
 
 ---
 
