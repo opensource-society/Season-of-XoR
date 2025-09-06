@@ -10,14 +10,16 @@
 <br>
 
 <h2>CheatSheets</h2>
-<ul>
-  <li>Python Numpy & Pandas (CampusX PDF) - https://github.com/campusx-official</li>
-  <li>Scikit-Learn Cheat Sheet - https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html</li>
-</ul>
+
+<b>Python Numpy & Pandas (CampusX PDF)</b>:- https://github.com/campusx-official  
 <br>
+<b>Scikit-Learn Cheat Sheet</b>:- https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html  
+<br>
+
 <hr>
 
-<h3> Other Useful Resources</h3>
+<h3>Other Useful Resources</h3>
+
 <b>Kaggle Datasets</b>:- https://www.kaggle.com/datasets  
 <br>
 <b>Google Colab (Free GPU)</b>:- https://colab.research.google.com/  
