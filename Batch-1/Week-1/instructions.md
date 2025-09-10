@@ -64,7 +64,7 @@ git checkout -b week1-submission
 
 3. add your work inside the correct folder:
 ```
-mkdir -p Batch-1/Week-1/<your-name>
+mkdir -p Batch-1/Week-1/Submissions/<your-name>
 # add your files here
 ```
 
