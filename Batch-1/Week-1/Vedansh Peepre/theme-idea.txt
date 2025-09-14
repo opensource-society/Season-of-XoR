@@ -1,0 +1,6 @@
+idea chosen from the `ideas.md` file
+
+-> Sentiment analysis on tweets 
+
+it feeds on the vast dataset of X, the almighty tweets, and tells the sentiment behind it
+whether it is happy, sad, angry, depressing, abusive etcetra (I just realized only one emotion that i described was good, and rest 4 were dark)
