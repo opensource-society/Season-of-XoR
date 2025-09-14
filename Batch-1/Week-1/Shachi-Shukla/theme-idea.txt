@@ -1,2 +1,8 @@
 YourTutor
 A tutoring session booking platform where students can browse tutors and book sessions.
+
+The principles I’m following in this project are:
+User-Centric Design – simple and intuitive UI.
+Transparency & Trust – clear tutor profiles and booking flow.
+Accessibility – responsive and inclusive design.
+
