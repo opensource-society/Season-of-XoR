@@ -1,1 +1,1 @@
-Linkedin - https://www.linkedin.com/in/aashika-rajbhar/
+LinkedIn - https://www.linkedin.com/in/aashika-rajbhar/
