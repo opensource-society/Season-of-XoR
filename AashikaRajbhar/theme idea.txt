@@ -1,0 +1,5 @@
+Theme: Education
+Idea: AI-Powered Study Planner
+
+A Data Science project that creates personalized study plans for students.
+It uses deadlines, subjects, and study hours to suggest a balanced daily schedule and helps students to do more stuff in same 24 hours .
