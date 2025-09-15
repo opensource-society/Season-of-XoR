@@ -1,0 +1,10 @@
+SignBridge
+An AI-powered accessibility platform that translates sign language gestures into real-time text and speech, enabling seamless communication between Deaf/Hard-of-hearing users and Hearing users.
+
+Guiding Principles:
+
+User-Centric Design → Simple, intuitive, and inclusive interface focused on real-time communication.
+
+Transparency & Trust → Clear functionality, reliable translations, and privacy-first handling of video/audio data.
+
+Accessibility & Inclusivity → Designed to break communication barriers, responsive across devices, and compliant with accessibility standards.
