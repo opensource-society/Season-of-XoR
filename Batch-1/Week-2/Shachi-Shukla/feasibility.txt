@@ -1,0 +1,5 @@
+Here is how this project is feasible in the real world :-
+
+1. Existing Demand - Online tutoring is already a growing market (Byju’s, Vedantu, Chegg). Students prefer flexible, affordable, and personalized learning. YourTutor taps into this demand.
+2. Revenue Streams – Commission per booking, subscription plans for premium tutors, or ads for institutes.
+3. Interactive UI/UX - The platform offers a clean and easy to use interface for students ranging from classes 9th to 12th.
