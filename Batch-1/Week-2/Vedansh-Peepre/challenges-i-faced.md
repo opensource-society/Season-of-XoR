@@ -1,0 +1,3 @@
+## following are the `challenges` i faced during this week-
+1. i'm working on *Google colab* for this project and i run into runtime expiration nearly everytime i open it again. and due to that, i think i'll have to save my *stemmed-texts* in a seperate file so that i won't lose it (it takes 50 min to run that part).
+2. i tried switching to jupyter notebook instead, but the unix commands doesn't work in that, so a few speedbumps down that road.
