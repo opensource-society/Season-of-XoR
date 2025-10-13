@@ -20,8 +20,9 @@ Resources used-
 1. download the `trained_model.sav` file
 2. run the following commands for loading the model <br>
    ```
-   loaded_model = pickle.load(open('/content/trained_model.sav', 'rb'))
+   loaded_model = pickle.load(open('<PATH>', 'rb')) 
    ```
+   replace `<PATH>` with the path of the `trained_model.sav` file that you''ve downloaded
 3. use the following code for using the model
    ```
    print(X_test[200])
